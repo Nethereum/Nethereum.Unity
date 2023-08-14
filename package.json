@@ -1,0 +1,12 @@
+{
+  "name": "com.nethereum",
+  "displayName": "Nethereum",
+  "version": "4.16.0",
+  "unity": "2018.1",
+  "description": "Nethereum 472 AOT",
+  "keywords": [
+    "unity", "nethereum", "ethereum", "rpc", "abi", "smart contracts", "evm"
+  ],
+  "category": "Unity",
+  "type": "library"
+}
