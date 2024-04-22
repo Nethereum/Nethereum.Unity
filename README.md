@@ -2,7 +2,8 @@
 
 Nethereum 472 / Netstandard AOT runtime dlls, please check Nethereum releases for more information, extra components, or other versions (net461, net35, netstandard)  https://github.com/Nethereum/Nethereum/releases.
 
-Example of usage can be found at https://github.com/Nethereum/Unity3dSampleTemplate.
+Example template can be found at https://github.com/Nethereum/Unity3dSampleTemplate.
+_Note_ If you are targeting WegGl and want to use async / await you will require the WebGlThreadPatcher see example above.
 
 ## Package installation instructions
 
