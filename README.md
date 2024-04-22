@@ -10,7 +10,7 @@ _Note_ If you are targeting WegGl and want to use async / await you will require
 
 #### Install via Package Manager using OpenUpm
 
-* nopen Edit/Project Settings/Package Manager
+* open Edit/Project Settings/Package Manager
 * add a new Scoped Registry (or edit the existing OpenUPM entry)
   
     **Name** package.openupm.com
