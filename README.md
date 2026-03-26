@@ -23,7 +23,7 @@ _Note_ If you are targeting WegGl and want to use async / await you will require
 * click +
 * select Add package by name... or Add package from git URL...
 * paste com.nethereum.unity into name
-* paste 4.19.2 into version (or your preferred one)
+* paste 6.1.0 into version (or your preferred one)
 * click Add
 
 
@@ -40,7 +40,7 @@ Alternatively, merge the snippet to Packages/manifest.json (https://docs.unity3d
         }
     ],
     "dependencies": {
-        "com.nethereum.unity": "4.19.2"
+        "com.nethereum.unity": "6.1.0"
     }
 }
 ```
